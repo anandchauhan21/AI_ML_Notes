@@ -124,6 +124,12 @@ Explainable AI (XAI)
 Responsible AI
 ```
 
-
-
+AI_m board
+```
+https://miro.com/app/board/uXjVGj1jIn4=/?share_link_id=2625494422534
+```
+AI
+```
+https://miro.com/app/board/uXjVGj2K0sg=/?share_link_id=579234636782
+```
 
